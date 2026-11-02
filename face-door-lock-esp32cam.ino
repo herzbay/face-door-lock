@@ -9,8 +9,8 @@
 #include "fr_flash.h"
 #include <WiFi.h>
 
-const char* ap_ssid = "SDL";
-const char* ap_password = "12345678";
+const char* ap_ssid = "your id wifi";
+const char* ap_password = "your password";
 
 #define ENROLL_CONFIRM_TIMES 5
 #define FACE_ID_SAVE_NUMBER 7
